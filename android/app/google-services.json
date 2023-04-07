@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150271921639",
+    "project_id": "smart-hostel-b7c59",
+    "storage_bucket": "smart-hostel-b7c59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150271921639:android:349757c1bbf8a68a250142",
+        "android_client_info": {
+          "package_name": "com.smart_hostel.smart_hostel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150271921639-kbuve574b8sa7mu6m0jqjpjs8cklj459.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDF1x0oE05ybGKZd2fqzTkDixQ0buiz7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150271921639-kbuve574b8sa7mu6m0jqjpjs8cklj459.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
